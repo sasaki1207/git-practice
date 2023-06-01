@@ -1,1 +1,2 @@
 It is new file!
+add 1 row.
