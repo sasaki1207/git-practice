@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 automatic mergeを見たいな
-conflictを起こすぜ！
+pullを成功させるぜ
